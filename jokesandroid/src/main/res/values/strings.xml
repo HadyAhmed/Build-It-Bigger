@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jokesandroid</string>
+    <string name="title_activity_joke">JokeActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
